@@ -13,6 +13,7 @@ body {
     background: green;
     float: left;
     width: 100%;
+    overflow-y: hidden;  
 }
 
 .fab {
